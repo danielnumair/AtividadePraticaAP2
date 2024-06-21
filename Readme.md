@@ -1,10 +1,10 @@
-Projeto Atividade Prática Avaliativa AP1
+Projeto Atividade Prática Avaliativa AP2
 
 Disciplina Programação orientada a Objetos
 
 Tarefas:
 
-1-Simulador de Dados  
+1-Simulador de Dados - SimuladorDados.java  
 Descrição: Desenvolva uma classe que simule a jogada de um dado de seis lados três vezes. Some os valores obtidos e apresente o resultado final.  
 Instruções:  
 
