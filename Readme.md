@@ -7,10 +7,17 @@ Tarefas:
 1-Simulador de Dados - SimuladorDados.java  
 Descrição: Desenvolva uma classe que simule a jogada de um dado de seis lados três vezes. Some os valores obtidos e apresente o resultado final.  
 Instruções:  
+-Simula a jogada de dados 3 vezes  
+-Soma os resultados  
+-Exibe resultados  
 
-2-Ajuste de Preços em Farmácia  
+2-Ajuste de Preços em Farmácia - AjusteFarmacia.java  
 Descrição: Elabore uma classe que aumente os preços dos produtos de uma farmácia em 12%. Utilize o método round para arredondar o resultado. O programa deve encerrar quando o valor do produto digitado for zero.  
 Instruções:  
+-Digite o preço do produto (ou 0 para encerrar)  
+-Se digitou 0 encerra  
+-Senão calcula novo preço e arredonda  
+-Exibe resultados  
 
 3-Gerador de Senhas Aleatórias  
 Descrição: Crie uma classe que gere uma senha numérica aleatória com um número de dígitos entre 5 e 10, baseado em um número gerado aleatoriamente por Math.random.  
