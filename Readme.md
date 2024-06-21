@@ -34,9 +34,12 @@ Instruções:
 -Inverte a frase  
 -Exibe a frase invertida  
 
-5-Detector de Conteúdo Impróprio  
+5-Detector de Conteúdo Impróprio - DetectorImproprio.java  
 Descrição: Desenvolva uma classe que verifique se uma frase contém as palavras "sexo" ou "sexual". Emita a mensagem “conteúdo impróprio” se encontrar essas palavras, e “conteúdo liberado” se não.  
 Instruções:  
+-Solicita ao usuário que digite uma frase  
+-Verifica se a frase contém palavras impróprias  
+-Exibe resultado  
 
 6-Manipulação de Substrings  
 Descrição: Crie uma classe que exiba o substring de uma string, composto por todos os caracteres exceto o último.  
