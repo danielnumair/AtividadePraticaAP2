@@ -59,3 +59,6 @@ Instruções:
 8-Conversor de Radianos para Graus  - ConverteRadGraus.java  
 Descrição: Para converter radianos em graus, use o método toDegrees de Math.
 Instruções:  
+-Solicita ao usuário que digite o valor em radianos  
+-Converte radianos para graus usando o método toDegrees da classe Math  
+-Exibe o resultado da conversão  
