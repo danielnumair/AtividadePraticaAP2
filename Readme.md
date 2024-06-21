@@ -19,13 +19,20 @@ Instruções:
 -Senão calcula novo preço e arredonda  
 -Exibe resultados  
 
-3-Gerador de Senhas Aleatórias  
+3-Gerador de Senhas Aleatórias - GeradorSenhas.java   
 Descrição: Crie uma classe que gere uma senha numérica aleatória com um número de dígitos entre 5 e 10, baseado em um número gerado aleatoriamente por Math.random.  
 Instruções:  
+-Gera um número de dígitos entre 5 e 10  
+-Gera a senha com o número de dígitos determinado  
+-Exibe a senha gerada  
 
-4-Inversor de Frases  
+4-Inversor de Frases - InversorFrases  
 Descrição: Construa uma classe que receba uma frase, remova os espaços em branco, e a exiba de trás para frente.  
 Instruções:  
+-Solicita ao usuário que digite uma frase  
+-Remove os espaços em branco da frase  
+-Inverte a frase  
+-Exibe a frase invertida  
 
 5-Detector de Conteúdo Impróprio  
 Descrição: Desenvolva uma classe que verifique se uma frase contém as palavras "sexo" ou "sexual". Emita a mensagem “conteúdo impróprio” se encontrar essas palavras, e “conteúdo liberado” se não.  
