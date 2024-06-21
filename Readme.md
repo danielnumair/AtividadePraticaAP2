@@ -41,9 +41,13 @@ Instruções:
 -Verifica se a frase contém palavras impróprias  
 -Exibe resultado  
 
-6-Manipulação de Substrings  
+6-Manipulação de Substrings - ManipulaSubs.java  
 Descrição: Crie uma classe que exiba o substring de uma string, composto por todos os caracteres exceto o último.  
-Instruções:  
+Instruções:
+-Solicita ao usuário que digite uma string  
+-Verifica se a string tem pelo menos um caractere  
+-Retorna a substring excluindo o último caractere  
+-Exibe o substring obtido  
 
 7-Calculadora de Potência  
 Descrição: Para elevar um número a uma potência, use o método pow de Math.  
