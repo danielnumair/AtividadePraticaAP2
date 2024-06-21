@@ -49,10 +49,13 @@ Instruções:
 -Retorna a substring excluindo o último caractere  
 -Exibe o substring obtido  
 
-7-Calculadora de Potência  
+7-Calculadora de Potência - CalcPot.java  
 Descrição: Para elevar um número a uma potência, use o método pow de Math.  
 Instruções:  
+-Solicita ao usuário que digite a base e o expoente  
+-Calcula a potência usando o método pow da classe Math  
+-Exibe o resultado da potência  
 
-8-Conversor de Radianos para Graus  
+8-Conversor de Radianos para Graus  - ConverteRadGraus.java  
 Descrição: Para converter radianos em graus, use o método toDegrees de Math.
 Instruções:  
